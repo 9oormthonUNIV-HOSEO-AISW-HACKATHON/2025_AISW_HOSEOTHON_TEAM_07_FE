@@ -1,6 +1,7 @@
-# 🍔 MZ AI Kiosk Order Helper (AI 주문 도우미)
+<img width="890" height="296" alt="image" src="https://github.com/user-attachments/assets/7ae98d10-3e4c-4ad8-9895-7e088c56a7d9" /># 🍔 MZ AI Kiosk Order Helper (AI 주문 도우미)
+<img width="890" height="296" alt="image" src="https://github.com/user-attachments/assets/e87bdc60-fd30-4459-9211-321519fcd6f4" />
 
-> **"어르신들도 쉽고 재밌게 주문할 수 있는 AI 키오스크"**
+> **"어르신들도 이제 쉽고 간편하게 주문할 수 있는 AI 키오스크"**
 > MZ세대 페르소나를 가진 AI 알바생과 대화하며, 음성으로 편리하게 주문하고 사용자의 터치 패턴을 분석하는 스마트 키오스크 프로젝트입니다.
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -12,13 +13,14 @@
 
 ---
 
-## 📱 프로젝트 미리보기
+## 📱 프로젝트 
 
-| 메인 화면 (주문하기) | AI 채팅 (MZ 알바생) | 터치 분석 결과 (히트맵) |
-|:---:|:---:|:---:|
-| ![Main Screen](https://via.placeholder.com/200x400?text=Main+Screen) | ![Chat Screen](https://via.placeholder.com/200x400?text=Chat+Screen) | ![Result Screen](https://via.placeholder.com/200x400?text=Result+Screen) |
+<img width="954" height="903" alt="스크린샷 2025-11-23 095618" src="https://github.com/user-attachments/assets/ec360b77-a6e1-4445-ad4b-03be6a8f53a2" />
 
-*(스크린샷을 찍어서 이미지를 교체해보세요!)*
+<img width="957" height="908" alt="스크린샷 2025-11-23 095725" src="https://github.com/user-attachments/assets/794b13d3-3941-45c6-87ae-4190f1662e4e" />
+
+
+<img width="955" height="906" alt="스크린샷 2025-11-23 095827" src="https://github.com/user-attachments/assets/c31a78c2-4d08-4feb-91ad-954f6b5f1141" />
 
 ---
 
@@ -26,9 +28,10 @@
 
 ### 1. 🗣️ AI 음성 주문 시스템 (STT & TTS)
 - **Voice Only Interface:** 텍스트 입력 없이 **마이크 버튼** 하나로 대화 가능.
-- **MZ 페르소나 AI:** 딱딱한 기계음이 아닌, "완전 럭키비키잖아🍀" 같은 유행어를 사용하는 친근한 AI 알바생.
+- ** AI 알바생 :** 사용자의 선호에 따라 메뉴 추천 
 - **음성 인식 & 출력:** 사용자의 말을 텍스트로 변환(STT)하고, AI의 응답을 음성으로 읽어줌(TTS).
-
+- ** 얼굴 인식 기능** 사용자의 얼굴을 인식하고 노인이라 판단되면 자동 간편모드 전환
+- 
 ### 2. 🍔 반응형 메뉴판 & 장바구니
 - **실시간 메뉴 정렬:** 사용자가 "매운 거 추천해줘"라고 하면, **AI가 추천한 메뉴가 자동으로 맨 앞으로 정렬**됨.
 - **접근성 UI:** 노인분들을 위해 **큰 글씨, 큰 이미지, 직관적인 버튼** 디자인 적용.
