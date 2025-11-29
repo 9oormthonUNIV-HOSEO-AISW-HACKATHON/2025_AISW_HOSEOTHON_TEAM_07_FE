@@ -19,6 +19,7 @@
 
 <img width="557" height="508" alt="스크린샷 2025-11-23 095725" src="https://github.com/user-attachments/assets/794b13d3-3941-45c6-87ae-4190f1662e4e" />
 
+<img width="948" height="457" alt="image" src="https://github.com/user-attachments/assets/f3efe056-d1a1-483e-bfb8-2bdd3ade10ee" />
 
 <img width="555" height="506" alt="스크린샷 2025-11-23 095827" src="https://github.com/user-attachments/assets/c31a78c2-4d08-4feb-91ad-954f6b5f1141" />
 
