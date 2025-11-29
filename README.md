@@ -2,7 +2,7 @@
 <img width="590" height="195" alt="image" src="https://github.com/user-attachments/assets/e87bdc60-fd30-4459-9211-321519fcd6f4" />
 
 > **"어르신들도 이제 쉽고 간편하게 주문할 수 있는 AI 키오스크"**
-> MZ세대 페르소나를 가진 AI 알바생과 대화하며, 음성으로 편리하게 주문하고 사용자의 터치 패턴을 분석하는 스마트 키오스크 프로젝트입니다.
+> 터치와 음성을 지원하여 AI 알바생과 대화하며, 편리하게 주문하고 사용자의 터치 패턴을 분석하는 스마트 키오스크 프로젝트입니다.
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
